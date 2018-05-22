@@ -7,7 +7,7 @@ This project uses CNN to identify different ethnicities in images.
 
 # Installing Dependencies
 - Python
-  - First you need Python, which is probably already installed on your system, if not https://www.python.org/
+  - First you need Python, which is probably already installed on your system, if not [Python](https://www.python.org/)
 - Python Modules: Jupyter, NumPy, Pandas, Matplotlib, and Scikit-Learn
   - One way to install is with Python's packaging system pip, check to see if it is installed with:
      ```
@@ -40,3 +40,7 @@ This project uses CNN to identify different ethnicities in images.
     [I 15:24 NotebookApp] 0 active kernels
     [I 15:24 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/
     [I 15:24 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+# Setting up the Environment
+  - To set up the environment we followed this simple tutorial to run jupyter on a Google Cloud Platform [Jupyter on Google Cloud](https://towardsdatascience.com/running-jupyter-notebook-in-google-cloud-platform-in-15-min-61e16da34d52)
+  - Our VM is built using Google Compute Engine
+With an Ubuntu 16.04 OS and 16 cores
