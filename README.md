@@ -1,4 +1,5 @@
 # Racial Recognition
+## ***Ralph Acosta, Jasmine Mann, Andrew Hutzel, Sannuj Singhal*** 
 This project uses CNN to identify different ethnicities in images.
 # Overview
 -  By utilizing a Sequential and VGG16 model, we were able to achive our goal of analyzing images of different people in order to be able to 
