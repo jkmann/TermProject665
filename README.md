@@ -9,21 +9,21 @@ This project uses CNN to identify different ethnicities in images.
 
 # Installing Dependencies
 - Python
-  - First you need Python, which is probably already installed on your system, if not [Python](https://www.python.org/)
+  - First you need Python 3.6, which is probably already installed on your system, if not [Python](https://www.python.org/)
 - Python Modules: Jupyter, NumPy, Pandas, Matplotlib, and Scikit-Learn
   - One way to install is with Python's packaging system pip, check to see if it is installed with:
      ```
      $ pip3 --version
       pip 9.8.1 from [...]/lib/python3.5/site-packages (python 3.5)
       ```
-  - upgrade to the latest version of pip if it is not installed:
+  - Upgrade to the latest version of pip if it is not installed:
     ```
     $ pip3 install --upgrade pip
     Collecting pip
     [...]
     Successfully installed pip-9.8.1
     ```
-  - now the required modules and dependencies can be installed:
+  - Now the required modules and dependencies can be installed:
     ```
     $ pip3 install --upgarde jupyter matplotlib numpy pandas scipy scikit-learn
     Collecting jupyter
