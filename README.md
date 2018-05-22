@@ -35,7 +35,7 @@ This project uses CNN to identify different ethnicities in images.
     ```
     $ python3 -c "import jupyter, matplotlib, numpy, pandas, scipy, sklearn"
     ```
-  - You can find jupyter by:
+  - You can find Jupyter by:
     ```
     $ jupyter notebook
     [I 15:24 NotebookApp] Serving notebooks from local directory: [..]/ml
@@ -43,6 +43,6 @@ This project uses CNN to identify different ethnicities in images.
     [I 15:24 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/
     [I 15:24 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
 # Setting up the Environment
-  - To set up the environment we followed this simple tutorial to run jupyter on a Google Cloud Platform [Jupyter on Google Cloud](https://towardsdatascience.com/running-jupyter-notebook-in-google-cloud-platform-in-15-min-61e16da34d52)
+  - To set up the environment we followed this simple tutorial to run Jupyter on a Google Cloud Platform [Jupyter on Google Cloud](https://towardsdatascience.com/running-jupyter-notebook-in-google-cloud-platform-in-15-min-61e16da34d52)
   - Our VM is built using Google Compute Engine
 With an Ubuntu 16.04 OS and 16 cores
