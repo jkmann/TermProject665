@@ -14,7 +14,7 @@ This project uses CNN to identify different ethnicities in images.
   - One way to install is with Python's packaging system pip, check to see if it is installed with:
      ```
      $ pip3 --version
-      pip 9.8.1 from [...]/lib/python3.5/site-packages (python 3.5)
+      pip 9.8.1 from [...]/lib/python3.6/site-packages (python 3.6)
       ```
   - Upgrade to the latest version of pip if it is not installed:
     ```
