@@ -4,9 +4,9 @@ This project uses a CNN to identify different ethnicities in images.
 # Overview
 -  By utilizing a Sequential model and VGG16 model, we were able to achieve our goal of analyzing images of different people.
 -  Datasets and corresponding code: 
-  1) CNN.ipynb works with RacesV2.0 dataset. 
-  2) CNN4Ethnicities.ipynb works with DatasetOfRaces dataset.
-  3) CNNGender.ipynb works with DatasetOfRacesGender dataset.
+  - CNN.ipynb works with RacesV2.0 dataset. 
+  - CNN4Ethnicities.ipynb works with DatasetOfRaces dataset.
+  - CNNGender.ipynb works with DatasetOfRacesGender dataset.
 - [Link to video demo](https://www.youtube.com/watch?v=tNJC2zIWCiQ&feature=youtu.be)
 
 # Installing Dependencies
