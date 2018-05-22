@@ -5,6 +5,7 @@ This project uses CNN to identify different ethnicities in images.
 -  By utilizing a Sequential and VGG16 model, we were able to achive our goal of analyzing images of different people in order to be able to 
 -  Images can be founnd in  DatasetOfRaces/test, DatasetOfRaces/train, DatasetOfRaces/valid
 - Code can be found in Jupyter notebook CNN.ipynb file
+- [Link to video demo](https://www.youtube.com/watch?v=tNJC2zIWCiQ&feature=youtu.be)
 
 # Installing Dependencies
 - Python
